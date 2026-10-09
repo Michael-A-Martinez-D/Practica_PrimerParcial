@@ -33,3 +33,18 @@ FORTIGATE 1
 
 FORTIGATE2
 ![firewallF2](imagenes/interfacesf2.png)
+
+
+
+WEB FILTER
+![webfilter](imagenes/WebFilter.png)
+
+
+
+VPNS
+
+FORTIGATE 1
+![VPNF1](imagenes/VPNF1.png)
+
+FORTIGATE2
+![VPNF2](imagenes/VPNF1.png)
