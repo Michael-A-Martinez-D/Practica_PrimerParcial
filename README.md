@@ -5,6 +5,11 @@ El proposito de esta topologia es comprobar las diferentes habilidades aprendias
 DIAGRAMA
 ![Diagrama](imagenes/diagrama.png)
 
+
+
+
+
+
 INTERFACES
 
 FORTIGATE 1
